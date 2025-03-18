@@ -6,7 +6,7 @@ import { z } from "zod";
 
 // Initialize the MCP server
 const server = new McpServer({
-  name: "GreetingServer",
+  name: "MontanoServer",
   version: "1.0.0",
 });
 
