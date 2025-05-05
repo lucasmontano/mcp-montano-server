@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lucasmontano-mcp-montano-server-badge.png)](https://mseep.ai/app/lucasmontano-mcp-montano-server)
+
 # MCP Montano Server
 
 A TypeScript-based server project.
