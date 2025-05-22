@@ -1,4 +1,5 @@
 # MCP Montano Server
+[![smithery badge](https://smithery.ai/badge/@lucasmontano/mcp-montano-server)](https://smithery.ai/server/@lucasmontano/mcp-montano-server)
 
 A TypeScript-based server project.
 
@@ -10,6 +11,15 @@ A TypeScript-based server project.
 
 ## Installation
 
+### Installing via Smithery
+
+To install MCP Montano Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@lucasmontano/mcp-montano-server):
+
+```bash
+npx -y @smithery/cli install @lucasmontano/mcp-montano-server --client claude
+```
+
+### Manual Installation
 1. Clone the repository:
 ```bash
 git clone git@github.com:lucasmontano/mcp-montano-server.git
